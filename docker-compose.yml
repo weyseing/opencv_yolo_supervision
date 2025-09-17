@@ -1,0 +1,13 @@
+services:
+  cv_processing:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: cv_processing
+    volumes:
+      - .:/app
+    networks:
+      - global-net
+
+networks:
+  global-net:
