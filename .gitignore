@@ -211,3 +211,8 @@ __marimo__/
 !videos/sample4.mp4
 
 yolov8n.pt
+
+*.amltmp*
+.amlignore
+.ipynb_aml_checkpoints/
+
