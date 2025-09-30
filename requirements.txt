@@ -3,3 +3,4 @@ supervision==0.26.1
 opencv-python==4.12.0.88
 torch==2.5.0
 ipykernel==6.30.1
+python-dotenv==1.1.1

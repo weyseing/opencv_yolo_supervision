@@ -3,9 +3,9 @@
     - **Must** change to your username.
 ```properties
 export CONDA_PLUGINS_AUTO_ACCEPT_TOS=yes
+export COMPUTER_VISION_CONDA=computer_vision
 export AZUREML_USER="<USERNAME>"
 export COMPUTER_VISION_REPO="/home/azureuser/cloudfiles/code/Users/$AZUREML_USER/opencv_yolo_supervision"
-export COMPUTER_VISION_CONDA=computer_vision
 ```
 
 - **Create/activate Conda environment**
