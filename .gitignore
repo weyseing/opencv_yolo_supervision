@@ -210,7 +210,7 @@ __marimo__/
 !videos/sample3.mp4
 !videos/sample4.mp4
 
-yolov8n.pt
+*.pt
 
 *.amltmp*
 .amlignore
